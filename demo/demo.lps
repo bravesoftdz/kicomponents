@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="35">
+      <Unit0>
+        <Filename Value="demo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="10"/>
+        <UsageCount Value="201"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <TopLine Value="45"/>
+        <CursorPos X="40" Y="60"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../source/kifill.pas"/>
+        <UnitName Value="KiFill"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="57"/>
+        <CursorPos X="26" Y="92"/>
+        <UsageCount Value="21"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../source/kiborder.pas"/>
+        <UnitName Value="KiBorder"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="131"/>
+        <CursorPos X="25" Y="152"/>
+        <UsageCount Value="20"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../source/kiedit.pas"/>
+        <UnitName Value="KiEdit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="233"/>
+        <CursorPos X="40" Y="259"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bctypes.pas"/>
+        <UnitName Value="BCTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="142"/>
+        <CursorPos X="3" Y="142"/>
+        <UsageCount Value="55"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bcbasectrls.pas"/>
+        <UnitName Value="BCBaseCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="223"/>
+        <CursorPos X="3" Y="242"/>
+        <UsageCount Value="56"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="756"/>
+        <CursorPos X="14" Y="822"/>
+        <UsageCount Value="51"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bgrashape.pas"/>
+        <UnitName Value="BGRAShape"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="96"/>
+        <CursorPos X="21" Y="111"/>
+        <UsageCount Value="104"/>
+        <Bookmarks Count="1">
+          <Item0 X="30" Y="352" ID="1"/>
+        </Bookmarks>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2094"/>
+        <CursorPos X="5" Y="2109"/>
+        <UsageCount Value="104"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../../../../../fpcupdeluxe_stable/fpcsrc/rtl/inc/typshrdh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="7" Y="43"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../../../../../fpcupdeluxe_stable/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bctools.pas"/>
+        <UnitName Value="BCTools"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="39"/>
+        <CursorPos X="10" Y="58"/>
+        <UsageCount Value="59"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgracanvas2d.pas"/>
+        <UnitName Value="BGRACanvas2D"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="225"/>
+        <CursorPos X="24" Y="242"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgrabitmap.pas"/>
+        <UnitName Value="BGRABitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="71"/>
+        <CursorPos X="37" Y="84"/>
+        <UsageCount Value="55"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="265"/>
+        <CursorPos X="3" Y="284"/>
+        <UsageCount Value="8"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/include/controlconsts.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="21"/>
+        <UsageCount Value="8"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/lmessages.pp"/>
+        <UnitName Value="LMessages"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1011"/>
+        <CursorPos X="5" Y="1030"/>
+        <UsageCount Value="8"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/csscolorconst.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgracustombitmap.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="694"/>
+        <CursorPos X="16" Y="712"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgragraphics.pas"/>
+        <UnitName Value="BGRAGraphics"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6"/>
+        <UsageCount Value="8"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/lcltype.pp"/>
+        <UnitName Value="LCLType"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="919"/>
+        <CursorPos X="9" Y="898"/>
+        <UsageCount Value="8"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgragtkbitmap.pas"/>
+        <UnitName Value="BGRAGtkBitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="3" Y="36"/>
+        <UsageCount Value="8"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/include/customedit.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="../../../../../fpcupdeluxe/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bgrashape.pas"/>
+        <UnitName Value="BGRAShape"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <CursorPos X="28" Y="429"/>
+        <UsageCount Value="15"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="../../../../../fpcupdeluxe/lazarus/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1740"/>
+        <CursorPos X="63" Y="1708"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="../kicomponents.pas"/>
+        <UnitName Value="KiComponents"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="53" Y="9"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="../../../../../fpcupdeluxe/config_lazarus/onlinepackagemanager/packages/bgracontrols-master/bctypes.pas"/>
+        <UnitName Value="BCTypes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="125"/>
+        <CursorPos X="3" Y="142"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="99"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <TopLine Value="123"/>
+        </ExtraEditor1>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/include/wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="20"/>
+        <CursorPos X="23" Y="39"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/include/control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="346"/>
+        <UsageCount Value="9"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/lclclasses.pp"/>
+        <UnitName Value="LCLClasses"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="117"/>
+        <CursorPos X="28" Y="149"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/extctrls.pp"/>
+        <UnitName Value="ExtCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="931"/>
+        <CursorPos X="3" Y="950"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="../../../../../fpcupdeluxe_stable/lazarus/lcl/include/customlabelededit.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="19"/>
+        <UsageCount Value="9"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="../../../../../fpcupdeluxe_stable/config_lazarus/onlinepackagemanager/packages/bgrabitmap-master/bgrabitmap/bgradefaultbitmap.pas"/>
+        <UnitName Value="BGRADefaultBitmap"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="197"/>
+        <CursorPos X="14" Y="215"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+    </Units>
+    <JumpHistory Count="22" HistoryIndex="21">
+      <Position1>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="45" TopLine="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="52" Column="57" TopLine="19"/>
+      </Position2>
+      <Position3>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="293" Column="24" TopLine="263"/>
+      </Position3>
+      <Position4>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="258" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="39" Column="79" TopLine="14"/>
+      </Position5>
+      <Position6>
+        <Filename Value="unit1.pas"/>
+      </Position6>
+      <Position7>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="264" Column="45" TopLine="239"/>
+      </Position7>
+      <Position8>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="303" Column="28" TopLine="279"/>
+      </Position8>
+      <Position9>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="274" Column="4" TopLine="263"/>
+      </Position9>
+      <Position10>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="303" Column="27" TopLine="279"/>
+      </Position10>
+      <Position11>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="265" Column="4" TopLine="187"/>
+      </Position11>
+      <Position12>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="303" Column="29" TopLine="279"/>
+      </Position12>
+      <Position13>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="129" Column="4" TopLine="110"/>
+      </Position13>
+      <Position14>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="303" Column="29" TopLine="279"/>
+      </Position14>
+      <Position15>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="39" TopLine="25"/>
+      </Position15>
+      <Position16>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="125" TopLine="106"/>
+      </Position16>
+      <Position17>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="297" Column="34" TopLine="273"/>
+      </Position17>
+      <Position18>
+        <Filename Value="unit1.pas"/>
+      </Position18>
+      <Position19>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="88" Column="7" TopLine="62"/>
+      </Position19>
+      <Position20>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="59" Column="40" TopLine="44"/>
+      </Position20>
+      <Position21>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="32" Column="17" TopLine="13"/>
+      </Position21>
+      <Position22>
+        <Filename Value="../source/kiedit.pas"/>
+        <Caret Line="54" Column="67" TopLine="34"/>
+      </Position22>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
